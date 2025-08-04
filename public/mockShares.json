@@ -1,0 +1,72 @@
+[
+  {
+    "symbol": "INFY",
+    "companyName": "Infosys Ltd.",
+    "quantity": 25,
+    "purchasePrice": 1300.50,
+    "currentPrice": 1450.75
+  },
+  {
+    "symbol": "RELIANCE",
+    "companyName": "Reliance Industries",
+    "quantity": 10,
+    "purchasePrice": 2500.00,
+    "currentPrice": 2480.00
+  },
+  {
+    "symbol": "TCS",
+    "companyName": "Tata Consultancy Services",
+    "quantity": 15,
+    "purchasePrice": 3200.00,
+    "currentPrice": 3350.00
+  },
+  {
+    "symbol": "HDFCBANK",
+    "companyName": "HDFC Bank",
+    "quantity": 20,
+    "purchasePrice": 1500.00,
+    "currentPrice": 1555.00
+  },
+  {
+    "symbol": "ITC",
+    "companyName": "ITC Ltd.",
+    "quantity": 100,
+    "purchasePrice": 250.00,
+    "currentPrice": 280.00
+  },
+  {
+    "symbol": "AAPL",
+    "companyName": "Apple Inc.",
+    "quantity": 5,
+    "purchasePrice": 145.30,
+    "currentPrice": 170.25
+  },
+  {
+    "symbol": "TSLA",
+    "companyName": "Tesla Inc.",
+    "quantity": 3,
+    "purchasePrice": 700.00,
+    "currentPrice": 690.50
+  },
+  {
+    "symbol": "GOOGL",
+    "companyName": "Alphabet Inc.",
+    "quantity": 2,
+    "purchasePrice": 2700.00,
+    "currentPrice": 2800.00
+  },
+  {
+    "symbol": "MSFT",
+    "companyName": "Microsoft Corporation",
+    "quantity": 4,
+    "purchasePrice": 295.00,
+    "currentPrice": 310.00
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "companyName": "Adani Green Energy",
+    "quantity": 12,
+    "purchasePrice": 1000.00,
+    "currentPrice": 1205.00
+  }
+]
